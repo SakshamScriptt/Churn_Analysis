@@ -3,4 +3,6 @@ End-to-end Customer Churn Analysis using Python and SQLite. This project covers 
 
 ## Project Report
 
-[View Churn Analysis Report (PDF)]([./churn_analysis.pdf](https://drive.google.com/file/d/1YHJuTKBE3k_zmafFQYB6pyJ_AYMm3Y3s/view?usp=sharing))
+[View Churn Analysis Report (PDF)](./churn_analysis.pdf)
+
+
